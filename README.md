@@ -3,6 +3,9 @@
 
 # Perfil Acadêmico
 
+### <p><a href="https://github.com/pedro-nuness" style="font-weight: bold;">Perfil pessoal</a></p>
+
+
 ### Sobre mim
 
 💻 Estudante de engenharia de software <br />
